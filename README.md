@@ -3,12 +3,13 @@
 ## Contents
 
  - Outside the Palace - Save 0
- - 2% The Maharajah's Treasure Vaults - Save 1
- - 5% "You Have Unleashed the Sands of Time" - Save 2
+ - 02% The Maharajah's Treasure Vaults - Save 1
+ - 05% "You Have Unleashed the Sands of Time" - Save 2
+ - 07% "Had I Really Seen Her?" - Save 3
+ - 10% "A Secret Passage" - Save 4
 
-
-
-## Trek to Yomi
+## Life Upgrades
+ - 07% "Had I Really Seen Her?" - Save 3
 ### Save game data location
 
 | System | Location |
@@ -18,4 +19,4 @@
 | Microsoft Store |  |
 | Steam Play (Linux) | ```<SteamLibrary-folder>/steamapps/compatdata/13600/pfx/``` |
 
-![1  Prince of Persia The Sands of Time](https://github.com/user-attachments/assets/e6a4ddc4-61f9-47c0-b05f-71a02d99bded)
+![2 Prince of Persia The Sands of Time](https://github.com/user-attachments/assets/fe13cd98-76fa-4970-9572-c16a77e4224a)
